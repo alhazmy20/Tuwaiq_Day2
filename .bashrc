@@ -1,0 +1,1 @@
+/home/alhazmy/dotfiles/.bashrc
